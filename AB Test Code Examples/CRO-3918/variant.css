@@ -1,0 +1,138 @@
+html body.cro-t-debt-90 #cro_90_buttonsWrapper .submitbutton {
+    max-width: 100%;
+    color: #FFF !important;
+    text-align: center;
+    font-family: "Open Sans"; 
+    font-style: normal;
+    font-size: 14px !important;
+    line-height: normal !important;
+    padding: 13px 0 !important;
+}
+
+html body.cro-t-debt-90 #buttonsWrapper{
+    display: none;
+}
+
+html body.cro-t-debt-90 #cro_90_buttonsWrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+html body.cro-t-debt-90 .cro_90_button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 11px;
+    border: 1px solid #FFF;
+    padding: 16px;
+    width: 33%;
+    gap: 20px;
+}
+
+html body.cro-t-debt-90 .cro_90_cardContent{
+    /* margin-top: 20px; */
+}
+
+html body.cro-t-debt-90 .cro_90_cardContent p {
+    text-align: left;
+    margin: 0;
+    color: #FFF;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+html body.cro-t-debt-90 .cro_90_cardContent p span{
+    font-weight: 700;
+}
+
+html body.cro-t-debt-90 .cro_90_whatsApp.cro_90_button .mt-4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    --tw-bg-opacity: 1;
+    background-color: rgb(232 135 59 / var(--tw-bg-opacity));
+    border-radius: 9999px !important;
+}
+
+html body.cro-t-debt-90 .cro_90_whatsApp.cro_90_button .mt-4 .bg-orange-new{
+    background-color: transparent;
+    padding: 0 !important;
+    width: fit-content !important;
+    margin: 0 7px;
+}
+
+html body.cro-t-debt-90 .cro_90_button .mt-4 {
+    margin: 0;
+    width: 100%;
+}
+
+html body.cro-t-debt-90 .cro_90_button .whatsapp-icon {
+    position: relative;
+    margin: 0 7px 0 11.55px;
+    width: 18px;
+    height: 18px;
+}
+
+html body.cro-t-debt-90 .cro_90_button .right-arrow-icon {
+    position: relative;
+    top: 0;
+    right: 0;
+    margin: 0 11.55px 0 7px;
+    /* width: 7px;
+    height: 12px; */
+}
+
+svg.cro_90_arrowIcon {
+    top: 2px;
+    position: relative;
+}
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+    html body.cro-t-debt-90 #cro_90_buttonsWrapper{
+        flex-wrap: wrap;
+    }
+    html body.cro-t-debt-90 .cro_90_button{
+        width: 47%;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1280px){
+    html body.cro-t-debt-90 .cro_90_button .whatsapp-icon{
+        margin: 0 3px 0 0px;
+    }
+
+    html body.cro-t-debt-90 .cro_90_button .right-arrow-icon{
+        margin: 0 0px 0 0px;
+    }
+
+    html body.cro-t-debt-90 .cro_90_whatsApp.cro_90_button .mt-4 .bg-orange-new{
+        margin: 0 3px;
+    }
+}
+
+@media (max-width: 1540px) {
+    
+
+    
+}
+
+
+@media (max-width: 767px) {
+    
+    html body.cro-t-debt-90 #cro_90_buttonsWrapper{
+        flex-direction: column;
+    }
+
+    html body.cro-t-debt-90 .cro_90_button{
+        width: 100%;
+    }
+    
+}

@@ -1,0 +1,391 @@
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded');
+
+.cro-debt-3-reviews-inner h2 {
+    color: #FFF;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 83px;
+}
+
+.cro-debt-3-bg-dark-green-new .container {
+    row-gap: 53px;
+    -moz-column-gap: 38px;
+    column-gap: 38px;
+}
+
+.cro-debt-3-bg-dark-green-new .pt-16 {
+    padding-top: 4rem;
+}
+
+.cro-debt-3-bg-dark-green-new .bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+    border-radius: .75rem;
+    flex-grow: 1;
+    margin-bottom: 30px;
+}
+
+.cro-debt-3-bg-dark-green-new img {
+    border-radius: 9999px;
+    --tw-translate-y: -4rem;
+    transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+    margin-bottom: -4rem;
+    vertical-align: middle;
+    max-width: 135px;
+    width: 100%;
+}
+
+.cro-debt-3-bg-dark-green-new .cro-debt-3-bg-card-1 {
+    order: 5;
+}
+
+.cro-debt-3-bg-dark-green-new .cro-debt-3-bg-card-2 {
+    order: 6;
+}
+
+.cro-debt-3-bg-dark-green-new .cro-debt-3-bg-card-3 {
+    order: 2;
+}
+
+.cro-debt-3-bg-dark-green-new .cro-debt-3-bg-card-4 {
+    order: 1;
+}
+
+.cro-debt-3-bg-dark-green-new .cro-debt-3-bg-card-5 {
+    order: 4;
+}
+
+.cro-debt-3-bg-dark-green-new .cro-debt-3-bg-card-6 {
+    order: 2;
+}
+
+.cro-debt-3-bg-dark-green-new .mb-2 {
+    color: #000;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 27px;
+}
+
+.cro-debt-3-bg-dark-green-new .grow .grow {
+    padding: 13px 25px 25px;
+    height: 100%;
+}
+
+.cro-debt-3-bg-card-rating {
+    flex: 1;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.cro-debt-3-bg-card {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.cro-debt-3-bg-dark-green-new span.text-dark-green-new {
+    --tw-text-opacity: 1;
+    color: #E8873B;
+    position: relative;
+    top: 2px;
+}
+
+.cro-debt-3-bg-dark-green-new .mb-4 {
+    color: #000;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    /* margin-bottom: 49px; */
+}
+
+.cro-debt-3-bg-dark-green-new .mr-5 {
+    color: #000;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.cro-debt-3-bg-dark-green-new .mr-5 strong {
+    font-weight: 700;
+}
+
+.cro-debt-3-bg-dark-green-new a.btn.quaternary {
+    border-width: 3px;
+    --tw-border-opacity: 1;
+    border-color: rgb(255 255 255 / var(--tw-border-opacity));
+    background-color: transparent;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 32px;
+}
+
+.cro-debt-3-bg-dark-green-new a.btn.quaternary:hover {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgb(0 0 0 / var(--tw-text-opacity));
+}
+
+.cro-debt-3-bg-dark-green-new a.btn.quaternary span.icon {
+    font-family: 'Material Symbols Rounded';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+    flex-shrink: 0!important;
+    /* width: 0; */
+    overflow: hidden;
+    /* opacity: 0; */
+    margin-right: .5rem;
+    font-size: 2.25rem !important;
+}
+
+.cro-debt-3-bg-dark-green-new a.btn.quaternary{
+    color: #FFF;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+
+/* Modal */
+
+/* Modal background */
+.cro-debt-3-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 999999999;
+  }
+  
+  /* Modal content */
+  .cro-debt-3-modal-content {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Close button */
+  .cro-debt-3-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    color: #333;
+  }
+
+  .cro-debt-3-close span.icon.material-symbols-rounded {
+    cursor: pointer;
+    z-index: 9;
+    position: relative;
+    color: #fff;
+  }
+  
+  /* Video container */
+  .cro-debt-3-video-container {
+    padding-top: 56.25%; /* Aspect ratio for 16:9 video */
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 56.25%;
+    
+  }
+  
+  #cro-debt-3-videoModal iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  section.cro-debt-3-video {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.cro-debt-3-modalOpen.cro-debt-3-modal{
+    display: block !important;
+}
+
+.ytp-expand-pause-overlay .ytp-pause-overlay {
+    display: none;
+}
+
+:not(.ytp-mweb-player) .ytp-endscreen-content {
+    display: none;
+}
+
+.cro-debt-3-bg-dark-green-new .mr-5 b {
+    margin: 0 10px;
+}
+
+/* @media (min-width: 1600px) {
+    .cro-debt-3-modal-content {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+} */
+
+@media (min-width: 1024px) {
+    div#cro-debt-3-videoModal {
+        padding: 5rem;
+    }
+}
+
+@media (max-width: 1023px) {
+    div#cro-debt-3-videoModal {
+        padding: 2.5rem;
+    }
+}
+
+/* Modal */
+
+@media (min-width: 1024px) {
+    section.cro-debt-3-reviews.bg-dark-green-new {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .cro-debt-3-bg-card svg{
+        max-width: 38px;
+        max-height: 24px;
+        width: 100%;
+        height: 100%;
+    }
+
+    .cro-debt-3-bg-card{
+        margin-left: 9px;
+    }
+
+    .cro-debt-3-bg-card svg {
+        margin-right: 2px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .cro-debt-3-reviews-inner h2{
+        margin: 0 18px 53px;
+        font-size: 24px;
+    }
+
+    .cro-debt-3-bg-dark-green-new .mb-2{
+        font-size: 17px;
+    }
+
+    
+
+    .cro-debt-3-bg-dark-green-new .grow .grow{
+        padding: 13px 25px 25px;
+    }
+
+    .cro-debt-3-bg-dark-green-new .mb-4{
+        margin-bottom: 27px;
+    }
+
+    .cro-debt-3-bg-dark-green-new .container{
+        row-gap: 38px;
+    }
+
+    section.cro-debt-3-reviews.bg-dark-green-new {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .cro-debt-3-bg-card svg {
+        max-width: 27px;
+        max-height: 22px;
+        margin-right: 2px;
+        width: 100%;
+        height: 100%;
+        position: relative;
+        top: -2px;
+    }
+}
+
+@media (max-width: 335px){
+    .cro-debt-3-bg-dark-green-new a.btn.quaternary{
+        font-size: 15px;
+    }
+
+    .cro-debt-3-bg-dark-green-new a.btn.quaternary span.icon{
+        font-size: 1.5rem !important;
+    }
+
+    .cro-debt-3-bg-dark-green-new .mr-5 b{
+        margin: 0 6px;
+    }
+}
+
+@media (min-width: 2200px) {
+    .cro-debt-3-bg-dark-green-new .bg-white{
+        height: 253px;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 2199px){
+    .cro-debt-3-bg-card svg{
+        max-width: 28px;
+    }
+}
+
+@media screen and (min-width: 1536px) and (max-width: 12799px) {
+    .cro-debt-3-bg-dark-green-new .bg-white{
+        height: 318px;
+    }
+}
+
+@media screen and (min-width: 1280px) and (max-width: 2535px) {
+    .cro-debt-3-bg-dark-green-new .bg-white{
+        height: 345px;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .cro-debt-3-bg-dark-green-new .bg-white{
+        height: 409px;
+    }
+}

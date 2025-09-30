@@ -1,0 +1,188 @@
+html body.recipe-test55 .cro-test56-wrapper {
+  width: -moz-fit-content;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: 67px;
+  padding-bottom: 67px;
+}
+html body.recipe-test55 .cro-test56-top .cro-test56-top-header {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  color: #000000;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-card {
+  max-width: 485px;
+  width: 100%;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-card-top {
+  display: flex;
+  gap: 20px;
+  background: #5bac43;
+  align-items: center;
+  padding: 0 12px;
+  min-height: 90px;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-card-number {
+  background: #ffffff;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 26px;
+  line-height: 36px;
+  text-align: center;
+  display: flex;
+  color: #e8873b;
+  border-radius: 50%;
+  padding: 7px 18px;
+  align-items: center;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-card-header {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 24px;
+  color: #ffffff;
+  text-align: left;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-card-bottom {
+  background: #ffffff;
+  border: 1px solid #bababa;
+  height: 126px;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-bottom-top {
+  display: flex;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-card-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #000000;
+  margin: 0;
+  padding: 17px 20px 13px 21px;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-bottom-middle {
+  width: -moz-fit-content;
+  width: fit-content;
+  position: relative;
+  margin: 0 auto;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-bottom-bottom {
+  display: flex;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-card-arrow {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-arrow {
+  position: absolute;
+  width: 33px;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  z-index: 99;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-line2 {
+  z-index: 98;
+  position: relative;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-line-desktop {
+  display: block;
+}
+html body.recipe-test55 .cro-test56-bottom .cro-test56-line-mobile {
+  display: none;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-line {
+    min-width: 150px;
+    width: 100%;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-line2 {
+    max-width: 550px;
+    width: 100%;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-card {
+    display: flex;
+    flex-direction: column;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-card-bottom {
+    height: auto;
+    flex-grow: 1;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-card-top {
+    min-height: 120px;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-line2 {
+    max-width: 460px;
+  }
+}
+@media screen and (max-width: 767px) {
+  html body.recipe-test55 .cro-test56-wrapper {
+    align-items: center;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-card-top {
+    min-height: 140px;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+    padding: 20px 21px;
+  }
+  html body.recipe-test55 .cro-test56-top .cro-test56-top-header {
+    font-size: 24px;
+    line-height: 29px;
+    max-width: 309px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 4px;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-card {
+    max-width: 309px;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-card-number {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-card-header {
+    margin-bottom: 0;
+    text-align: center;
+    margin-top: 10px;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-card-bottom {
+    height: auto;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-bottom-top {
+    flex-direction: column;
+    align-items: center;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-bottom-bottom {
+    align-items: center;
+    flex-direction: column;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-card-arrow {
+    transform: rotate(90deg);
+    justify-content: center;
+    z-index: -1;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-line {
+    width: 280px;
+    height: 78.5px;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-line-desktop {
+    display: none;
+  }
+  html body.recipe-test55 .cro-test56-bottom .cro-test56-line-mobile {
+    display: block;
+  }
+}

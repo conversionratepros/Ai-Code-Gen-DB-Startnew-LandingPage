@@ -1,0 +1,1305 @@
+html body.cro-t-67_2 .cro-t-67-saving-container-header {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44.8px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin: 0;
+    padding-bottom: 30px;
+    padding-top: 66px;
+
+}
+
+html body.cro-t-67_2 .cro-t-67-saving-list-item-content {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    max-width: 450px;
+    padding-left: 15px;
+}
+
+html body.cro-t-67_2 .cro-t-67-saving-list-item {
+    display: flex;
+    /* gap: 5px; */
+    align-items: flex-start;
+}
+
+html body.cro-t-67_2 .cro-t-67-saving-footer-button-link {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    justify-content: center;
+}
+
+html body.cro-t-67_2 .cro-t-67-saving-footer-button {
+    background-color: rgba(232, 135, 59, 1);
+    width: 314px;
+    border-radius: 35px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    margin-bottom: 100px;
+    margin-top: 40px;
+    display: none;
+}
+
+html body.cro-t-67_2 .cro-t-67-saving-footer-text {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;
+    margin-bottom: 0;
+    margin-top: 10px;
+    max-width: 630px;
+}
+
+/* --------Payment Section------ */
+
+html body.cro-t-67_2 .cro-t-67-payment-container {
+    background-color: #F4F4F4;
+}
+
+html body.cro-t-67_2 .cro-payment-container-header {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44.8px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    margin: 0;
+    padding-bottom: 15px;
+    padding-top: 0px;
+}
+
+html body.cro-t-67_2 .cro-payment-container-sub-header {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+html body.cro-t-67_2 .cro-t-67-payment-card-header {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    margin: 0;
+    padding-top: 55px;
+    padding-bottom: 40px;
+}
+
+html body.cro-t-67_2 .cro-t-67-payment-card-container-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 87px;
+}
+
+html body.cro-t-67_2 .cro-t-67-payment-cards-icon {
+    width: 30px;
+    height: 30px;
+    background-color: rgba(232, 135, 59, 1);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 29.4px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 14px;
+}
+
+html body.cro-t-67_2 .cro-t-67-payment-cards-text {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+
+}
+
+html body.cro-t-67_2 .cro-t-67-payment-card {
+    max-width: 280px;
+    min-height: 154px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 19px 0px rgba(0, 0, 0, 0.17);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 22px 22px 0px 22px;
+}
+
+html body.cro-t-67_2 .payment-cards-2 {
+    margin: 0 25px;
+}
+
+html body.cro-t-67_2 .cro-hero-banner img {
+    height: 20rem;
+}
+
+html body.cro-t-67_2 .cro-t-67-payment-footer-button {
+    background-color: rgba(232, 135, 59, 1);
+    width: 314px;
+    border-radius: 35px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    /* margin-bottom: 100px; */
+    margin-top: 40px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+html body.cro-t-67_2 .cro-t-67-payment-footer-button {
+    display: none;
+}
+
+html body.cro-t-67_2 .cro-t-67-payment-footer-button-link {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    justify-content: center;
+}
+
+
+/* --------Hero--Section------- */
+
+html body.cro-t-67_2 .py-0 picture.w-full img {
+    display: none;
+}
+
+html body.cro-t-67_2 .relative .content>div:nth-child(1) {
+    display: none;
+}
+
+html body.cro-t-67_2 .relative .container>article.text-wrap {
+    display: none;
+}
+
+html body.cro-t-67_2 .relative .container>.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+html body.cro-t-67_2 .cro-t-67-hero-container-header {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 43px;
+    font-weight: 400;
+    line-height: 52.04px;
+    text-align: left;
+    color: rgba(91, 172, 67, 1);
+    margin-bottom: 20px;
+    max-width: 433px;
+
+}
+
+html body.cro-t-67_2 .cro-t-67-hero-container-header span {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 43px;
+    font-weight: 700;
+    line-height: 52.04px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+
+}
+
+html body.cro-t-67_2 .cro-t-67-hero-container-sub-header {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    max-width: 440px;
+}
+
+html body.cro-t-67_2 .cro-t-67-hero-container-sub-header span {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22.4px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    max-width: 500px;
+}
+
+html body.cro-t-67_2 .cro-hero-section-fotter-img {
+    max-width: 520px;
+}
+
+html body.cro-t-67_2 .relative.py-0.overflow-hidden {
+    background-image: url(https://cdn-3.convertexperiments.com/uf/1004973/10045476/Group%2043.png);
+    background-color: rgba(244, 244, 244, 1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: 0 -55px; */
+    /* padding-bottom: 9rem; */
+    min-height: unset;
+    padding-bottom: 9rem;
+    background-position-y: bottom;
+}
+
+@media (min-width:1024px) {
+    html body.cro-t-67_2 .absolute.w-full.to-white {
+        height: 0;
+    }
+}
+
+
+/* ---------From-Section------- */
+html body.cro-t-67_2 .relative .content #callback-form .text-xl {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+html body.cro-t-67_2 .relative .content #callback-form picture .hidden {
+    display: none;
+}
+
+html body.cro-t-67_2 .relative .content #callback-form .hubspot-form {
+    padding: 0;
+}
+
+html body.cro-t-67_2 .relative .content #callback-form.p-8 {
+    padding: 24px;
+}
+
+html body.cro-t-67_2 .relative .content #callback-form .hs-button {
+    width: 100% !important;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+html body.cro-t-67_2 #callback-form form .hs-form-field {
+    margin-bottom: 22px !important;
+}
+
+html body.cro-t-67_2 .relative section.container.pt-5 {
+    padding-top: 0;
+}
+
+
+
+
+
+/* ----------New--Part----------- */
+html body.cro-t-67_2.cro-new-parts .relative section h1.leading-semitight {
+    display: none;
+}
+
+html body.cro-t-67_2.cro-new-parts .relative .mb-5.lead {
+    display: none;
+}
+
+html body.cro-t-67_2.cro-new-parts .relative .container.pt-5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0;
+}
+
+html body.cro-t-67_2.cro-new-parts .hubspot-form.inline-form-fields form {
+    display: block;
+}
+
+html body.cro-t-67_2.cro-new-parts .cro-t-67-from-header-text {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+html body.cro-t-67_2.cro-new-parts .hubspot-form.inline-form-fields form .hs-input {
+    border-radius: 16px !important;
+    margin-bottom: 18px;
+}
+
+html body.cro-t-67_2.cro-new-parts form .hs-submit .hs-button {
+    width: 100% !important;
+}
+
+html body.cro-t-67_2.cro-new-parts .hubspot-form.inline-form-fields form .hs-input {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 16px !important;
+    font-weight: 400;
+    line-height: 19.36px !important;
+    text-align: left;
+
+}
+
+html body.cro-t-67_2.cro-new-parts .relative>picture img.h-32 {
+    height: 15rem;
+}
+
+html body.cro-t-67_2.cro-new-parts .relative .rounded-lg {
+    border-radius: 0;
+}
+
+html body.cro-t-67_2.cro-new-parts .relative .hubspot-form {
+    max-width: 594px;
+    width: 100%;
+    position: relative;
+}
+
+/* html body.cro-t-67_2.cro-new-parts .cro-t-67-from-img-wrapper {
+    max-width: 117px;
+    max-height: 117px;
+    position: absolute;
+    top: -58px;
+    right: -30px;
+    z-index: 9999;
+} */
+
+html body.cro-t-67_2.cro-new-parts .cro-t-67-from-header-text {
+    padding-top: 8px;
+}
+
+html body.cro-t-67_2.cro-new-parts section.container.text-right {
+    padding-top: 0;
+}
+
+
+
+/* -------Admoural------- */
+html body.cro-t-67_2.cro-t-67-Admarula .relative.py-0 .mb-10 .content {
+    display: none;
+}
+
+html body.cro-t-67_2.cro-t-67-Admarula .relative .hbspt-form .hs_submit .hs-button {
+    width: 100% !important;
+}
+
+html body.cro-t-67_2.cro-t-67-Admarula #callback-form picture {
+    display: none;
+}
+
+html body.cro-t-67_2.cro-t-67-Admarula #callback-form .hubspot-form {
+    padding: 0;
+}
+
+html body.cro-t-67_2.cro-t-67-Admarula #callback-form .hubspot-form {
+    padding: 0;
+}
+
+img.cro-from-img-top {
+    width: 100%;
+    height: 100%;
+}
+
+html body.cro-t-67_2 .cro-t-67-from-img-wrapper {
+    max-width: 117px;
+    max-height: 117px;
+    position: absolute;
+    top: -67px;
+    right: -30px;
+    z-index: 99999999;
+}
+
+.content #callback-form {
+    position: relative;
+    z-index: 999;
+}
+
+.overflow-hidden {
+    overflow: visible;
+}
+
+html body.cro-t-67_2.cro-t-67-Admarula .relative .content #callback-form {
+    width: 100%;
+    max-width: 594px;
+}
+
+html body.cro-t-67_2.cro-t-67-Admarula #callback-form.p-8 {
+    position: relative;
+}
+
+
+
+
+/* ----------Media Section---------- */
+
+@media (max-width:1279px) and (min-width:1024px) {
+    html body.cro-t-67_2 .relative .content #callback-form {
+        width: 50%;
+    }
+
+    html body.cro-t-67_2 .cro-hero-section-fotter-img {
+        max-width: 500px;
+    }
+
+    html body.cro-t-67_2.cro-new-parts .cro-t-67-hero-container-wrapper {
+        width: 90%;
+    }
+
+    html body.cro-t-67_2.cro-new-parts .relative .hubspot-form {
+        width: 48%;
+    }
+
+    html body.cro-t-67_2.cro-new-parts .cro-t-67-from-header-text {
+        padding-top: 8px;
+        max-width: 375px;
+    }
+}
+
+
+@media (max-width:1023px) and (min-width:768px) {
+    .cro-hero-banner img {
+        height: 10rem;
+    }
+
+    .cro-t-67-hero-container-wrapper {
+        max-width: 75%;
+    }
+
+    html body.cro-t-67_2.cro-new-parts .cro-t-67-hero-container-wrapper {
+        max-width: 90%;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-payment-card {
+        width: 100%;
+        min-width: 328px;
+        padding: 22px 10px 0px 10px;
+    }
+
+    html body.cro-t-67_2 .payment-cards-2 {
+        margin-left: 19px;
+        margin-right: 0;
+    }
+
+    html body.cro-t-67_2 .relative .content #callback-form {
+        width: 100%;
+        max-width: 375px;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-from-img-wrapper {
+        max-width: 100px;
+        max-height: 100px;
+        right: 10px;
+        top: -65px;
+    }
+
+    html body.cro-t-67_2 .relative .content #callback-form .text-xl {
+        padding-top: 8px;
+    }
+
+    html body.cro-t-67_2.cro-new-parts .cro-t-67-from-header-text {
+        padding-top: 8px;
+        max-width: 250px;
+    }
+
+    html body.cro-t-67_2.cro-new-parts .relative .hubspot-form {
+        max-width: 375px;
+    }
+
+    html body.cro-t-67_2 .relative.py-0.overflow-hidden {
+        background-image: none;
+        background-color: #fff;
+        padding-bottom: 0;
+    }
+
+    html body.cro-t-67_2 .cro-payment-container-header {
+        padding-top: 50px;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-payment-card.payment-cards-3 {
+        margin-top: 19px;
+    }
+}
+
+
+@media (max-width:1023px) {
+    html body.cro-t-67_2 .relative .container>.content {
+        flex-direction: column;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container-wrapper {
+        max-width: 100%;
+    }
+
+    html body.cro-t-67_2 .relative .content #callback-form {
+        width: auto;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container-header {
+        font-size: 33px;
+        line-height: 39.94px;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container-header span {
+        font-size: 33px;
+        line-height: 39.94px;
+    }
+
+    html body.cro-t-67_2 .relative .container.pt-5 picture .mb-3 {
+        display: none;
+    }
+
+    html body.cro-t-67_2 .relative .container.pt-5 .inline-block {
+        display: none;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container-wrapper>div.mb-5 {
+        display: none;
+    }
+
+    html body.cro-t-67_2 .to-black-translucent-dark {
+        --tw-gradient-to: #ffffff var(--tw-gradient-to-position);
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container-sub-header {
+        margin-bottom: 45px;
+    }
+
+    html body.cro-t-67_2 .relative .content #callback-form.p-8 {
+        padding: 15px;
+    }
+
+    html body.cro-t-67_2 .cro-hero-banner img {
+        display: none;
+    }
+
+    /* .cro-t-67-saving-footer-text,
+    .cro-t-67-saving-footer-text1 {
+        display: none;
+    } */
+
+    html body.cro-t-67_2 .cro-t-67-payment-card-container-wrapper {
+        /* display: flex; */
+        flex-direction: column;
+    }
+
+    /* html body.cro-t-67_2 .payment-cards-2 {
+        margin: 19px 0;
+    } */
+
+    html body.cro-t-67_2 .cro-t-67-payment-card-header {
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+
+    html body.cro-t-67_2 .cro-payment-container-header {
+        padding-bottom: 30px;
+        padding-top: 50px;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-saving-container-header {
+        text-align: center;
+    }
+
+    html body.cro-t-67_2 .relative>section.container {
+        padding-top: 0;
+    }
+
+    html body.cro-t-67_2 .relative picture img.h-32 {
+        height: 6rem;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-payment-card {
+        width: 100%;
+        min-width: 328px;
+        padding: 22px 31px 0px 31px;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-payment-footer-button {
+        margin-top: 30px;
+    }
+
+    html body.cro-t-67_2 .cro-new-parts .relative .container.pt-5 {
+        flex-direction: column;
+    }
+
+    html body.cro-t-67_2 .cro-new-parts .relative>picture img.h-32 {
+        height: 6rem;
+    }
+
+    html body.cro-t-67_2 .cro-new-parts .relative .hubspot-form {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-from-img-wrapper {
+        max-width: 90px;
+        max-height: 90px;
+        top: -47px;
+        right: -10px;
+    }
+
+    html body.cro-t-67_2 .relative .content #callback-form .text-xl {
+        padding-top: 8px;
+    }
+
+    html body.cro-t-67_2.cro-new-parts .cro-t-67-from-header-text {
+        padding-top: 8px;
+    }
+
+    html body.cro-t-67_2 .cro-new-parts .cro-t-67-from-img-wrapper {
+        max-width: 75px;
+        max-height: 75px;
+        top: -49px;
+        right: 23px;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-payment-footer-button {
+        display: block;
+    }
+
+    html body.cro-t-67_2 .cro-payment-container-header {
+        padding-top: 50px;
+        /* max-width: 300px;
+        margin: 0 auto; */
+    }
+
+    html body.cro-t-67_2 .relative.py-0.overflow-hidden {
+        background-image: none;
+        background-color: #fff;
+        padding-bottom: 0;
+    }
+
+    /* html body.cro-t-67_2 .payment-cards-2 {
+        margin: 19px 0px;
+    } */
+
+    html body.cro-t-67_2 .cro-payment-container-sub-header {
+        max-width: 100%;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-payment-cards-text {
+        max-width: 240px;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-payment-card-container-wrapper {
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+}
+
+@media (max-width:767px) {
+    html body.cro-t-67_2 .payment-cards-2 {
+        margin: 19px 0;
+    }
+}
+
+@media (max-width:500px) {
+    html body.cro-t-67_2.cro-new-parts .relative .container.pt-5 {
+        padding: 0;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container-wrapper {
+        padding: 0 1rem;
+    }
+
+    html body.cro-t-67_2 .cro-whatsapp-icon-text-part {
+        width: 100% !important;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container-sub-header {
+        margin-bottom: 55px;
+    }
+}
+
+@media (max-width:1330px) and (min-width:1280px) {
+    html body.cro-t-67_2 .relative .content #callback-form.p-8 {
+        margin-right: 10px;
+    }
+}
+
+@media (max-width:1330px) and (min-width:1280px) {
+    html body.cro-t-67_2 .relative .content #callback-form {
+        width: 45%;
+    }
+
+    html body.cro-t-67_2 .relative .content #callback-form.p-8 {
+        margin-right: 10px;
+    }
+}
+
+@media (max-width:1080px) and (min-width:1024px) {
+    .relative .content #callback-form {
+        width: 45%;
+    }
+
+    .relative .content #callback-form.p-8 {
+        margin-right: 10px;
+    }
+}
+
+@media (min-width:1023px) {
+    html body.cro-t-67_2 .relative .content #callback-form .text-xl {
+        max-width: 80%;
+    }
+
+}
+
+@media (max-width:1350px) and (min-width:1080px) {
+    /* html body.cro-t-67_2 .relative.py-0.overflow-hidden {
+        padding-bottom: 7rem;
+    } */
+
+}
+
+@media (max-width:1079px) and (min-width:1024px) {
+    /* html body.cro-t-67_2 .relative.py-0.overflow-hidden {
+        padding-bottom: 5rem;
+    } */
+
+}
+
+@media (max-width:785px) and (min-width:768px) {
+    .relative .content #callback-form.p-8 {
+        margin-right: auto;
+    }
+
+}
+
+
+
+html body.cro-t-67_2.cro-t-67-Admarula .relative.py-0.overflow-hidden {
+    background-image: none;
+}
+
+html body.cro-t-67_2.cro-t-67-Admarula .relative .overflow-hidden {
+    background-image: url(https://cdn-3.convertexperiments.com/uf/1004973/10045476/Group%2043.png);
+    background-color: rgba(244, 244, 244, 1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 -55px;
+    padding-bottom: 9rem;
+}
+
+/* @media (min-width:1440px) {
+    .content #callback-form {
+        margin-right: auto;
+    }
+
+} */
+
+html body.cro-t-67_2 .relative .content #callback-form .text-xl::after {
+    content: 'YES! I want to start my free, private, Debt-Free Plan now.';
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 16px !important;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+html body.cro-t-67_2 .relative .content #callback-form .text-xl {
+    font-size: 0px;
+}
+
+/* --------Update code------ */
+
+html body.cro-t-67_2 .relative.container>h1 {
+    display: none;
+}
+
+html body.cro-t-67_2 .lead.mb-5 {
+    display: none;
+}
+
+html body.cro-t-67_2 .relative.container.pt-5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+html body.cro-t-67_2 #main-form {
+    display: block;
+    position: relative;
+}
+
+html body.cro-t-67_2 .cro-from-name-parent {
+    width: 100%;
+    max-width: 48%;
+}
+
+html body.cro-t-67_2 .cro-from-surname-parent {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    max-width: 48%;
+}
+
+html body.cro-t-67_2 #main-form>input {
+    width: 100% !important;
+    border-radius: .5rem !important;
+    border-width: 0 !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    padding-top: .5rem !important;
+    padding-bottom: .5rem !important;
+    font-size: .875rem !important;
+    line-height: 1.25rem !important;
+    --tw-text-opacity: 1 !important;
+    color: rgb(0 0 0/var(--tw-text-opacity)) !important;
+}
+
+html body.cro-t-67_2 .cro-from-name-parent>input,
+html body.cro-t-67_2 .cro-from-surname-parent>input,
+html body.cro-t-67_2 .cro-from-conNumber-parent>input,
+html body.cro-t-67_2 .cro-from-email-parent>input,
+html body.cro-t-67_2 .cro-from-idNumber-parent>input {
+    margin-bottom: 22px !important;
+    height: 100%;
+    max-height: 37px;
+}
+
+html body.cro-t-67_2 .omni-form.inline-form-fields {
+    /* max-width: 645px; */
+    max-width: 530px;
+    padding: 24px;
+    position: relative;
+    box-shadow: 0px 4px 24px 0px #00000036;
+    border-radius: 0;
+    margin-right: 20px;
+
+}
+
+html body.cro-t-67_2 .debtbusters-form.inline-form-fields {
+    /* max-width: 645px; */
+    max-width: 530px;
+    padding: 24px;
+    position: relative;
+    box-shadow: 0px 4px 24px 0px #00000036;
+    border-radius: 0;
+    margin-right: 20px;
+}
+
+html body.cro-t-67_2 .cro-t-67-from-header-text {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.6px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    /* max-width: 350px; */
+}
+
+html body.cro-t-67_2 .cro-btn-tnc {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.94px;
+    text-align: center;
+    color: #fff;
+
+}
+
+html body.cro-t-67_2 .cro-from-button input {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    line-height: 16.94px !important;
+    text-align: center;
+    height: 100%;
+    min-height: 36px;
+
+}
+
+html body.cro-t-67_2 .cro-t-67-saving-footer-text1 {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;
+    margin-bottom: 87px;
+    max-width: 620px;
+}
+
+html body.cro-t-67_2 .xl\:h-80 {
+    height: 12rem;
+}
+
+/* ------new--update--  */
+html body.cro-t-67_2 #buttonsWrapper .right-arrow-icon {
+    display: none;
+}
+
+html body.cro-t-67_2 #buttonsWrapper .w-48 {
+    width: 145px;
+}
+
+html body.cro-t-67_2 #buttonsWrapper .w-56 {
+    width: 17rem;
+}
+
+html body.cro-t-67_2 #buttonsWrapper .whatsapp-icon {
+    height: 20px;
+    width: 20px;
+    margin: 8px 0px 3px 16px;
+}
+
+html body.cro-t-67_2 #buttonsWrapper .w-56 input.whatsapp {
+    padding-left: 2rem !important;
+    padding-right: .5rem !important;
+}
+
+html body.cro-t-67_2 .cro-whatsapp-icon-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    min-height: 36px;
+    --tw-bg-opacity: 1;
+    background-color: rgb(232 135 59 / var(--tw-bg-opacity));
+    border-radius: 9999px !important;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+html body.cro-t-67_2 .cro-whatsapp-icon {
+    width: 20px;
+    margin-right: 8px;
+    /* margin-bottom: 2px; */
+}
+
+html body.cro-t-67_2 .cro-whatsapp-text {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    line-height: 16.94px !important;
+    text-align: center;
+
+}
+
+html body.cro-t-67_2 .cro-whatsapp-icon-text-part {
+    display: none;
+}
+
+.cro-t-67-saving-container picture {
+    pointer-events: none;
+}
+
+@media (max-width:1279px) and (min-width:1024px) {
+    /* .cro-t-67-hero-container-wrapper {
+        max-width: 75%;
+    } */
+
+    html body.cro-t-67_2 .omni-form.inline-form-fields {
+        max-width: 450px;
+    }
+
+    html body.cro-t-67_2 .debtbusters-form.inline-form-fields {
+        max-width: 450px;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-from-header-text {
+        max-width: 315px;
+    }
+
+}
+
+@media (max-width:1023px) and (min-width:768px) {
+    /* html body.cro-t-67_2 .omni-form.inline-form-fields {
+        max-width: 360px;
+    } */
+
+    html body.cro-t-67_2 .cro-hero-banner img {
+        height: 10rem;
+    }
+}
+
+@media (max-width:1023px) {
+    html body.cro-t-67_2 .relative.container.pt-5 {
+        flex-direction: column;
+    }
+
+    .omni-form.inline-form-fields {
+        margin: 0 auto;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container-header {
+        font-family: "open sans", Helvetica, Arial, sans-serif;
+        font-size: 33px;
+        font-weight: 400;
+        line-height: 39.94px;
+        text-align: left;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container-header span {
+        font-family: "open sans", Helvetica, Arial, sans-serif;
+        font-size: 33px;
+        font-weight: 700;
+        line-height: 39.94px;
+        text-align: left;
+        display: block;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-from-header-text {
+        font-family: "open sans", Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 19.6px;
+        text-align: left;
+        /* max-width: 250px; */
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container {
+        margin-top: 20px;
+    }
+
+    html body.cro-t-67_2 .omni-form.inline-form-fields {
+        padding: 23px 14px 42px 14px;
+    }
+
+    html body.cro-t-67_2 .debtbusters-form.inline-form-fields {
+        padding: 23px 14px 42px 14px;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container-wrapper {
+        padding: 0;
+        max-width: 100%;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container-sub-header span {
+        padding-left: 4px;
+        display: inline-block;
+    }
+
+    html body.cro-t-67_2 .xl\:h-80 {
+        height: 6rem;
+    }
+
+    html body.cro-t-67_2 .cro-from-button>div {
+        display: flex;
+        flex-direction: column;
+    }
+
+    html body.cro-t-67_2 .cro-from-button>div>div.w-48 {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    html body.cro-t-67_2 .cro-from-name-parent {
+        max-width: 100%;
+    }
+
+    html body.cro-t-67_2 .cro-from-surname-parent {
+        position: relative;
+        max-width: 100%;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-saving-footer-text1 {
+        margin-bottom: 80px;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-payment-footer-button {
+        display: none;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-saving-container-header {
+        font-family: "open sans", Helvetica, Arial, sans-serif;
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 35px;
+        text-align: center;
+        /* max-width: 300px; */
+        margin: 0 auto;
+    }
+
+    html body.cro-t-67_2 #buttonsWrapper .w-48 {
+        width: 100%;
+        max-width: 300px;
+        margin: 20px auto 0;
+    }
+
+    html body.cro-t-67_2 .cro-whatsapp-icon-text {
+        width: 100%;
+        max-width: 300px;
+        margin: 20px auto 0;
+    }
+
+    html body.cro-t-67_2 .omni-form.inline-form-fields {
+        max-width: 100%;
+    }
+
+    html body.cro-t-67_2 .debtbusters-form.inline-form-fields {
+        max-width: 100%;
+    }
+
+    html body.cro-t-67_2 #buttonsWrapper .w-56 {
+        width: 100%;
+    }
+
+    html body.cro-t-67_2 #buttonsWrapper .whatsapp-icon {
+        left: 220px;
+    }
+
+    html body.cro-t-67_2 #buttonsWrapper .w-56 {
+        display: none;
+    }
+
+    html body.cro-t-67_2 .cro-whatsapp-icon-text-part {
+        display: block;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-hero-container-sub-header {
+        max-width: 100%;
+    }
+}
+
+@media (max-width:500px) {
+    html body.cro-t-67_2 .cro-t-67-from-header-text {
+        max-width: 250px;
+    }
+}
+
+@media (max-width:1279px) and (min-width:1024px) {
+    html body.cro-t-67_2 .cro-from-button input {
+        font-size: 13px !important;
+        line-height: 15.78px !important;
+    }
+
+    html body.cro-t-67_2 #buttonsWrapper .w-48 {
+        width: 100%;
+        margin-right: 8px;
+    }
+
+    html body.cro-t-67_2 #buttonsWrapper .whatsapp-icon {
+        height: 20px;
+        width: 19px;
+        margin: 7px 0px 3px 10px;
+    }
+}
+
+@media (min-width:1280px) {
+    /* html body.cro-t-67_2 .cro-from-surname-parent {
+        top: 38px;
+    } */
+}
+
+@media (max-width:1279px) and (min-width:768px) {
+    /* html body.cro-t-67_2 .cro-from-surname-parent {
+        top: 60px;
+    } */
+}
+
+@media (min-width:1536px) {
+    html body.cro-t-67_2 .container {
+        max-width: 1280px;
+    }
+}
+
+
+
+/* .relative.container::after {
+    content: '';
+    display: block;
+    width: 100%;
+    background-image: url(https://cdn-3.convertexperiments.com/uf/1004973/10045476/Group%2043.png);
+    background-color: rgba(244, 244, 244, 1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 -55px;
+    padding-bottom: 9rem;
+    height: 300px;
+    /* position: absolute; */
+/* bottom: 0; */
+
+@media (min-width:1536px) {
+    html body.cro-t-67_2 .container {
+        max-width: 1280px;
+    }
+}
+
+@media (min-width:1670px) {
+    html body.cro-t-67_2 .relative.py-0.overflow-hidden {
+        padding-bottom: 14rem;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-payment-container-wrapper {
+        margin-top: -5rem;
+        position: relative;
+    }
+
+}
+
+@media (min-width:2050px) {
+    html body.cro-t-67_2 .relative.py-0.overflow-hidden {
+        padding-bottom: 18rem;
+    }
+
+    html body.cro-t-67_2 .cro-t-67-payment-container-wrapper {
+        margin-top: -8rem;
+    }
+
+
+}
+
+/* -----------------------NEW--------------- */
+.hidden.redirect-msg[style*="display: block;"]+div+div.cro-t-67-from-header {
+    display: none;
+}
+
+.hidden.redirect-msg {
+    position: relative;
+    top: 80px;
+    font-size: 21px;
+}
+
+html body.cro-t-67_2 span#errName,
+html body.cro-t-67_2 span#errSurname,
+html body.cro-t-67_2 span#errTel,
+html body.cro-t-67_2 span#errEmail,
+html body.cro-t-67_2 span#errIDNumber {
+    font-size: 12px;
+    position: relative;
+    top: -20px;
+}
+
+
+html body.cro-t-67_2 .cro-t-67-NameError input,
+html body.cro-t-67_2 .cro-t-67-SurnameError input,
+html body.cro-t-67_2 .cro-t-67-TelError input,
+html body.cro-t-67_2 .cro-t-67-EmailError input,
+html body.cro-t-67_2 .cro-t-67-IDNumberError input {
+    margin-bottom: 10px !important;
+}
+
+html body.cro-t-67_2 span#errName,
+html body.cro-t-67_2 span#errSurname,
+html body.cro-t-67_2 span#errTel,
+html body.cro-t-67_2 span#errEmail,
+html body.cro-t-67_2 span#errIDNumber {
+    top: -5px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,173 @@
+html body.cro-testimonial-video #cVideo {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    margin: auto;
+}
+html body.cro-testimonial-video .croOverlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.35);
+    z-index: 1;
+    display: block;
+}
+html body.cro-testimonial-video .croPlay.croHide {
+    display: none;
+}
+html body.cro-testimonial-video .croNewSection {
+    padding: 0px;
+    position: relative;
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+}
+html body.cro-testimonial-video .cro-testimonial-video-wrapper a.cro-get-started-link {
+    margin: 0;
+    display: none;
+}
+html body.cro-testimonial-video .croNewSection.croVideoPlay .croOverlay {
+    display: none;
+}
+html body.cro-testimonial-video .croNewSection.croVideoPlay a {
+    display: none !important;
+}
+html body.cro-testimonial-video .croLoader img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 9;
+    top: 0;
+    width: 15%;
+    bottom: 0;
+    cursor: pointer;
+    display: none;
+}
+html body.cro-testimonial-video .croLoader.croShow img {
+    display: block;
+}
+html body.cro-testimonial-video img.croPlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 9;
+    top: 0;
+    width: 25%;
+    bottom: 0;
+    cursor: pointer;
+}
+html body.cro-testimonial-video img.croImg {
+    cursor: pointer;
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+}
+html body.cro-testimonial-video .cro-testimonial-video-wrapper {
+    display: flex;
+    gap: 13.2rem;
+    justify-content: space-between;
+    align-items: center;
+}
+html body.cro-testimonial-video #cro-testimonial-video {
+    padding: 70px;
+}
+html body.cro-testimonial-video .cro-testimonial-left {
+    width: 50%;
+}
+html body.cro-testimonial-video .cro-testimonial-right {
+    width: 50%;
+}
+html body.cro-testimonial-video .cro-testimonial-left-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #000;
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 0;
+    gap: 7px;
+}
+html body.cro-testimonial-video .cro-testimonial-left-header span {
+    font-weight: 500;
+    max-width: 515px;
+    width: 100%;
+}
+html body.cro-testimonial-video .cro-testimonial-left-para {
+    display: flex;
+    flex-direction: column;
+    color: #000;
+    font-size: 16px;
+    line-height: 140%;
+    margin-bottom: 0;
+    max-width: 515px;
+    width: 100%;
+}
+html body.cro-testimonial-video .cro-get-started-link {
+    cursor: pointer;
+}
+html body.cro-testimonial-video .cro-testimonial-left-para.cro-testimonial-para-mob {
+    display: none;
+}
+@media (max-width: 1399px) {
+    html body.cro-testimonial-video .cro-testimonial-video-wrapper {
+        gap: 50px;
+    }
+    html body.cro-testimonial-video #cro-testimonial-video {
+        padding: 40px 0;
+    }
+}
+@media (max-width: 1023px) {
+    html body.cro-testimonial-video .croNewSection {
+        width: 100%;
+        padding: 0;
+    }
+    html body.cro-testimonial-video img.croImg {
+        padding: 0;
+    }
+    html body.cro-testimonial-video .cro-testimonial-video-wrapper {
+        gap: 20px;
+    }
+}
+@media (max-width: 844px) {
+    html body.cro-testimonial-video .cro-testimonial-left-header {
+        font-size: 36px;
+    }
+}
+@media (max-width: 767px) {
+    html body.cro-testimonial-video .cro-testimonial-video-wrapper a.cro-get-started-link {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+    }
+    html body.cro-testimonial-video .cro-testimonial-left-header {
+        font-size: 27px;
+    }
+    html body.cro-testimonial-video .cro-testimonial-video-wrapper {
+        flex-direction: column;
+        gap: 10px;
+    }
+    html body.cro-testimonial-video .cro-testimonial-left {
+        width: 100%;
+    }
+    html body.cro-testimonial-video .cro-testimonial-right {
+        width: 100%;
+    }
+    html body.cro-testimonial-video .cro-testimonial-left-para.cro-testimonial-para-desktop {
+        display: none;
+    }
+    html body.cro-testimonial-video .cro-testimonial-left-para.cro-testimonial-para-mob {
+        display: flex;
+    }
+}

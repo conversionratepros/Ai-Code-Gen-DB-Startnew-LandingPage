@@ -1,0 +1,87 @@
+html body.cro66 section h1:not(.font-light) {
+    font-size: 0 !important;
+    line-height: 0;
+}
+
+html body.cro66 section h1:not(.font-light)::before {
+    content: "Feeling stuck? You are not alone.";
+    color: #282828;
+    font-family: "Open Sans";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: -2.4px;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+html body.cro66 section h1:not(.font-light)::after {
+    content: "Join thousands of South Africans that have become debt-free.";
+    color: #282828;
+    font-family: "Open Sans";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 60px;
+    letter-spacing: -2.4px;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+html body.cro66 section.relative p {
+    font-size: 0;
+    line-height: 0;
+}
+
+html body.cro66 section.relative p:after {
+    content: 'Take charge of your financial future. Save your home. Protect your family. Act now! Fill in the form to get started.';
+    color: #000;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+@media (min-width:1280px) {
+    html body.cro66 .py-0 picture.right-0 [alt="DebtBusters logo"] {
+        height: 12rem;
+    }
+}
+
+@media (min-width:768px) and (max-width:1535px) {
+    html body.cro66 section h1:not(.font-light)::before {
+        font-size: 36px !important;
+        line-height: normal !important;
+    }
+
+    html body.cro66 section h1:not(.font-light)::after {
+        font-size: 36px !important;
+        line-height: normal !important;
+    }
+}
+
+@media (max-width: 1023px) {
+    html body.cro66 section h1:not(.font-light)::before {
+        content: "Feeling stuck?\AYou're not alone.";
+        font-size: 24px;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: -1.2px;
+        white-space: pre-line;
+    }
+
+    html body.cro66 section h1:not(.font-light)::after {
+        content: "Become\A debt-free.";
+        font-size: 24px;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: -1.2px;
+        white-space: pre-line;
+    }
+}
+
+@media (max-width: 767px) {
+    html body.cro66 section h1:not(.font-light) {
+        text-align: right;
+    }
+}
