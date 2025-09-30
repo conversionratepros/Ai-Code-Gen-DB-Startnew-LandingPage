@@ -53,3 +53,6 @@ Repository structure and file meanings.
 5. Technical.
 5.1 a large amount of our tests need the waitForElement function. This waits for an element to load on the page so the changes can be applied. Before building the test, ask if there needs to be a wait for elment. If yes, this needs to be supplied and the wait for element function should be used in the code
 5.2 Do not genearte empty css classes
+5.3 Never gererate css in the js file. All css shoudl be in the css file.
+5.4 When genearting strings, always backslash apostrophys and quotes
+

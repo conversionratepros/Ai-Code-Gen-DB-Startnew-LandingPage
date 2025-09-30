@@ -5,7 +5,7 @@
 1. Copy the user story from clickup as a mark down file. 
 2. Create a folder under "New AB Test" with the experiment ID
 3. Click on that folder and open Gemni 
-4. Prompt: "Creat a ab test for [Expriment ID] for mobile"
+4. Prompt: "Creat a ab test for [Expriment ID] for mobile/desktop/both"
 5.. You need to specify if the test if for mobile, desktop or both
 7. If the ai code generate propertly you can run through each change step by step by referncing classes and IDs it needs to use it needs to use
     7.1 Example

@@ -1,0 +1,9 @@
+Summary of changes for CRO-5267:
+
+Gemini's changes:
+- In variant.css, modified the .hp-reviews-grid to display as a single column on all screen sizes by setting 'grid-template-columns: 1fr;'.
+- Removed the now-redundant media query for .hp-reviews-grid.
+- Attempted to make .hp-reviews-subtitle bold, but the operation was cancelled by the user.
+
+User's changes:
+- In variant.js, fixed unescaped single quotes within the strings in the reviewsData array.
